@@ -1,4 +1,4 @@
-# Hi there, I'm [Chandru S] 
+# Hi there, I'm Chandru S 
 const aboutMe = {
   name: "[Chandru S]",
   role: "[Front End Developer, React.js Developer]",
